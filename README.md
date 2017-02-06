@@ -5,7 +5,7 @@ Durak is a card game that is popular in Russia and other post-Soviet states. The
 ## Coding Hints
 
 * This skeleton project was made to resemble the a/A practice assessment 2, Blackjack.
-* For solutions, see this Github repo: https://github.com/AustinWood/durak
+* For solutions, see this GitHub repo: https://github.com/AustinWood/durak
 * I welcome comments and pull requests if you think that any of your solutions are better / more elegant than mine :)
 * As the logic for this game is slightly more complicated than the Blackjack practice assessment, I left a few methods in place so that it shouldn't take ridiculously long to pass all the specs.
 * It is suggested that you run the specs in the following order:

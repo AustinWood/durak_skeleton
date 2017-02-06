@@ -44,9 +44,8 @@ class Player
   # Called during Game#take_turn to print player's cards
   # to the command line. No need to modify this method.
   def print_cards
-    output = "#{@name}'s cards: "
     str_arr = @cards.map { |card| card.to_s }
     cards_str = str_arr.join(", ")
-    output.concat(cards_str)
+    "#{@name}'s cards: #{cards_str}"
   end
 end
